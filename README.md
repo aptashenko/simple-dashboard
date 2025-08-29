@@ -1,33 +1,20 @@
-# .
+# 🚀 Test Dashboard
 
-This template should help get you started developing with Vue 3 in Vite.
+A demo project built with **Vue 3**, **PrimeVue**, and **TailwindCSS**.  
+The project implements a basic **dashboard** with authentication, navigation, a shopping cart (CartPanel), quotes system, and settings.
 
-## Recommended IDE Setup
+## ✨ Features
+- User authentication (Login / Logout)
+- Sidebar navigation (Dashboard, Quotes, Products, Settings)
+- Header with user menu and cart button
+- CartPanel for adding products and submitting quotes
+- Toast notifications
+- Route authentication guard with Vue Router
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 🛠️ Tech Stack
+- [Vue 3 (Composition API, `<script setup>`)]
+- [Vue Router 4]
+- [Pinia] — state management
+- [PrimeVue 4] + [PrimeIcons] — UI components
+- [TailwindCSS 4] — utility-first styling
+- TypeScript
