@@ -1,7 +1,12 @@
-# 🚀 Test Dashboard
+# Test Dashboard
 
 A demo project built with **Vue 3**, **PrimeVue**, and **TailwindCSS**.  
 The project implements a basic **dashboard** with authentication, navigation, a shopping cart (CartPanel), quotes system, and settings.
+
+## 🛜 Demo 
+https://simple-dashboard-self.vercel.app/login
+- login: admin@demo.com
+- password: demo123
 
 ## ✨ Features
 - User authentication (Login / Logout)
