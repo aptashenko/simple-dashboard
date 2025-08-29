@@ -4,7 +4,7 @@ A demo project built with **Vue 3**, **PrimeVue**, and **TailwindCSS**.
 The project implements a basic **dashboard** with authentication, navigation, a shopping cart (CartPanel), quotes system, and settings.
 
 ## 🛜 Demo 
-https://simple-dashboard-self.vercel.app/login
+https://simple-dashboard-self.vercel.app
 - login: admin@demo.com
 - password: demo123
 
@@ -23,3 +23,9 @@ https://simple-dashboard-self.vercel.app/login
 - [PrimeVue 4] + [PrimeIcons] — UI components
 - [TailwindCSS 4] — utility-first styling
 - TypeScript
+
+## ▶️ How to Run
+
+- Clone the project
+- npm install
+- npm run dev
